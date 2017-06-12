@@ -6,3 +6,7 @@ D:\MC\Programs\ASP\Thesis1a\Professor Tracker\Professor Tracker\bin\Professor Tr
 D:\MC\Programs\ASP\Thesis1a\Professor Tracker\Professor Tracker\bin\Professor Tracker.pdb
 D:\MC\Programs\ASP\Thesis1a\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.dll
 D:\MC\Programs\ASP\Thesis1a\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.pdb
+C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\bin\Professor Tracker.dll
+C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\bin\Professor Tracker.pdb
+C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.dll
+C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.pdb
