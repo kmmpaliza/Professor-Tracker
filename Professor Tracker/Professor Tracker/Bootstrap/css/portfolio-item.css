@@ -16,7 +16,6 @@ body {
 
 /*-------------------------
 Navbar
----------------------------*/
 
 .navbar-default {
     font-size: 14px;
@@ -55,6 +54,7 @@ Navbar
 .navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #751d1d;
 }
+---------------------------*/
 
 
 /*--------------------
