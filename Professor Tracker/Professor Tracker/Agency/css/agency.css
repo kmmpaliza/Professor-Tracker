@@ -70,7 +70,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
   color: white;
   background-color: #8e0404;
-  border-color: #f6bf01;
+  border-color: #222222;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -117,7 +117,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
   color: white;
   background-color: #8e0404;
-  border-color: #f6bf01;
+  border-color: #222222;
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -225,7 +225,8 @@ fieldset[disabled] .btn-xl.active {
     font-size: 1.5em;
   }
 }
-header {
+header 
+{
   background-image: url('../img/bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;

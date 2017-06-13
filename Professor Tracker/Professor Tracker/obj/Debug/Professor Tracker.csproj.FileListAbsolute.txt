@@ -10,3 +10,4 @@ C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\
 C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\bin\Professor Tracker.pdb
 C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.dll
 C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.pdb
+C:\Users\Katrina\Documents\Freelance\Topic1\Professor Tracker\Professor Tracker\obj\Debug\Professor Tracker.csprojResolveAssemblyReference.cache

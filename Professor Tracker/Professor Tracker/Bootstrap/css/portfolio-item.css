@@ -569,11 +569,11 @@ About
     .panel-heading
 {
     border: none;
-    background-color: #9B595B;
+    background-color: #8e0404;
 }
     .panel-body
 {
-    background-color: #F1E7E7;
+    background-color: #e6e6e6;
     text-align: justify;
 }
     .panel-title
@@ -700,10 +700,15 @@ About
   background: linear-gradient(53deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
 }
 
+#contact
+{
+    color: #FFFFFF;
+} 
+
 /*----------------
 Services
 -----------------*/
-#portfolio
+/**#portfolio
 {
     background-color: #E6E6E6;
     padding-top: 30px;
@@ -746,24 +751,17 @@ Services
     -moz-border-radius-topright: 5px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-}
+} ----------------------------------*
 
-/*----------------
-contact 
-------------------*/
-#contact
-{
-    padding-top: 40px;
-    padding-bottom: 40px;
-    background-color: #3D4156;
-    color: #FFFFFF;
-}
+
+
+
 
 
 
 /*----------
 Footer
-------------------*/
+
 
 .copyright
 {
@@ -830,7 +828,7 @@ ul.footermenu li a:hover {
 }
 .footermenu li:nth-child(1):before {
 	display:none;
-}
+} ------------------*/
 
 
 
