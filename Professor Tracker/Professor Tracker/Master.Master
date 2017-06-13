@@ -109,7 +109,7 @@
                         </div>
                     </span>
                     
-                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                    <div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
                         Name : Sun
@@ -166,7 +166,7 @@
                 <div class="panel panel-default">
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab4" data-toggle="tab" role="tab" aria-expanded="false">
-                        <div class="panel-heading" role="tab" id="headingFour" class= "collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <div class="panel-heading" role="tab" id="headingFour" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                             <h4 class="panel-title collapsed">Laboratories</h4>
                         </div>
                     </span>
@@ -182,6 +182,147 @@
                     </div>
                 </div>
                 <!-- / panel 4 -->
+
+                   <!--  panel 5 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab5" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingFive"  data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            <h4 class="panel-title">Rooms</h4>
+                        </div>
+                    </span>
+
+                        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                          <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                        </div>
+                      </div>
+
+                         <!--  panel 6 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab6" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingSix"  data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                            <h4 class="panel-title">Canteen</h4>
+                        </div>
+                    </span>
+
+                        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+                          <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                        </div>
+                      </div>
+
+                       <!--  panel 7 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab7" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingSeven"  data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                            <h4 class="panel-title">Engineering</h4>
+                        </div>
+                    </span>
+
+                        <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+                          <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                        </div>
+                      </div>
+
+                       <!--  panel 8 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab8" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingEight"  data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                            <h4 class="panel-title">Nursing</h4>
+                        </div>
+                    </span>
+
+                        <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+                          <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                        </div>
+                      </div>
+
+                      <!--  panel 9 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab9" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingNine"  data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                            <h4 class="panel-title">Senior High</h4>
+                        </div>
+                    </span>
+
+                        <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+                          <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                        </div>
+                      </div>
+
+
+                      <!--  panel 10 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab10" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingTen"  data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                            <h4 class="panel-title">PE Room</h4>
+                        </div>
+                    </span>
+
+                        <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
+                          <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                        </div>
+                      </div>
+
+                      <!-- panel 11 -->
+                <div class="panel panel-default">
+                    <!--wrap panel heading in span to trigger image change as well as collapse -->
+                    <span class="side-tab" data-target="#tab11" data-toggle="tab" role="tab" aria-expanded="false">
+                        <div class="panel-heading" role="tab" id="headingEleven" class= "collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                            <h4 class="panel-title collapsed">10th Floor</h4>
+                        </div>
+                    </span>
+
+                    <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
+                         <div class="panel-body">
+                        <h4>
+                        Name : Sun
+                        </h4>
+                        <!-- Tab content goes here -->
+                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        </div>
+                    </div>
+                </div>
           </div> <!-- / panel-group -->
         </div> <!-- /col-md-4 -->
         
@@ -195,18 +336,43 @@
                         <div class="tab-featured-image">
                             <div class="tab-content">
                                 <div class="tab-pane  in active" id="tab1">
-                                        &nbsp;TABLE</div>
+                                        &nbsp;Admin</div>
                                 <div class="tab-pane " id="tab2">
                                     
-                                        <img src="https://unsplash.imgix.net/uploads/1411724908903377d4696/2e9b0cb2?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950">
+                                     <!--   <img src="https://unsplash.imgix.net/uploads/1411724908903377d4696/2e9b0cb2?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950"> -->
+
+                                     &nbsp;Registrar, Cashier, Accounting
                                     
                                 </div>
                                 <div class="tab-pane" id="tab3">
                                     
-                                        <img src="https://ununsplash.imgix.net/photo-1422479516648-9b1f0b6e8da8?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950" alt="tab1" class="img img-responsive">
+                                        <!-- <img src="https://ununsplash.imgix.net/photo-1422479516648-9b1f0b6e8da8?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950" alt="tab1" class="img img-responsive"> -->
+
+                                        &nbsp;Faculty
                                 </div>
                                 <div class="tab-pane fade" id="tab4">
                                      &nbsp;Laboratories
+                                </div>
+                                 <div class="tab-pane fade" id="tab5">
+                                     &nbsp;Rooms
+                                </div>
+                                 <div class="tab-pane fade" id="tab6">
+                                     &nbsp;Canteen
+                                </div>
+                                 <div class="tab-pane fade" id="tab7">
+                                     &nbsp;Engineering
+                                </div>
+                                 <div class="tab-pane fade" id="tab8">
+                                     &nbsp;Nursing
+                                </div>
+                                 <div class="tab-pane fade" id="tab9">
+                                     &nbsp;Senior High
+                                </div>
+                                 <div class="tab-pane fade" id="tab10">
+                                     &nbsp;PE Room
+                                </div>
+                                 <div class="tab-pane fade" id="tab11">
+                                     &nbsp;10th floor
                                 </div>
 
                             </div>
