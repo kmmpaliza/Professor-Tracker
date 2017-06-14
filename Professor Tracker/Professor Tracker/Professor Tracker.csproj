@@ -55,6 +55,7 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Agency\img\bg.jpg" />
+    <Content Include="Agency\img\bg2.jpg" />
     <Content Include="Agency\img\logo.png" />
     <Content Include="Agency\img\logoplain.png" />
     <Content Include="Bootstrap\css\animated.css" />
@@ -73,6 +74,9 @@
     <Content Include="Bootstrap\js\jquery.easing.min.js" />
     <Content Include="Bootstrap\js\jquery.js" />
     <Content Include="Bootstrap\js\scrolling-nav.js" />
+    <Content Include="Carousel\bootstrap.min.css" />
+    <Content Include="Carousel\bootstrap.min.js" />
+    <Content Include="Carousel\jquery.min.js" />
     <Content Include="Default.aspx" />
     <Content Include="Delicious\contactform\readme.txt" />
     <Content Include="Delicious\css\bootstrap.min.css" />
@@ -218,6 +222,13 @@
     <Compile Include="Account\Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
+    <Compile Include="AdminMaster.Master.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminMaster.Master.designer.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -259,6 +270,7 @@
     <Content Include="Site.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AdminMaster.Master" />
     <None Include="Bootstrap\font\fontawesome-webfont.eot" />
     <None Include="Bootstrap\font\fontawesome-webfont.svg" />
     <None Include="Bootstrap\font\fontawesome-webfont.ttf" />

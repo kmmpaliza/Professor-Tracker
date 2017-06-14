@@ -1,6 +1,6 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Professor_Tracker.Master" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Professor_Tracker.Admin" %>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -26,9 +26,7 @@
     <script src="Agency/vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     <link href="Bootstrap/css/portfolio-item.css" rel="stylesheet" type="text/css" />
     <link href="Bootstrap/css/animated.css" rel="stylesheet" type="text/css" />
-    <link href="Carousel/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <script src="Carousel/bootstrap.min.js" type="text/javascript"></script>
-    <script src="Carousel/jquery.min.js" type="text/javascript"></script>
+
     <!-- Theme CSS -->
     <link href="Agency/css/agency.min.css" rel="stylesheet">
 
@@ -49,7 +47,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#header"><img src="Agency/img/logoplain.png" alt="" style="height:100%;"></a>
+                <a class="navbar-brand page-scroll" href="#header">Admin Dashboard</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -74,81 +72,51 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- Header -->
+    <!-- Header
     <header id = "header">
         <div class="container">
             <div class="intro-text">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                <!-- Indicators -->
+                
                 <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                   <li data-target="#myCarousel" data-slide-to="1"></li>
                   <li data-target="#myCarousel" data-slide-to="2"></li>
-                  <li data-target="#myCarousel" data-slide-to="3"></li>
-                  <li data-target="#myCarousel" data-slide-to="4"></li>
                 </ol>
 
-                <!-- Wrapper for slides -->
+                
                 <div class="carousel-inner">                       
                   <div class="item active">
-                    <!--<div class="intro-lead-in"><img src="Agency/img/logo.png" alt="" style="height:auto;"></div>
+                    <div class="intro-lead-in"><img src="Agency/img/logo.png" alt="" style="height:auto;"></div>
                         <div class="intro-heading">Welcome to AMA Makati</div>
-                        <a href="#contact" class="page-scroll btn btn-xl">Tell Me More</a>-->
-                    <img src="Images/1.png" alt="" style="width:100%;">
-                    <!--<div class="carousel-caption">
-                      <h3>Welcome to AMA University and Colleges</h3>
-                      <p>The 1st and largest IT University in Asia!</p>
-                    </div>-->
+                        <a href="#contact" class="page-scroll btn btn-xl">Tell Me More</a>
+                    <!--<img src="Images/ama.png" alt="Los Angeles" style="width:100%;">
                   </div>
 
                   <div class="item">
-                    <img src="Images/2.png"  alt="" style="width:100%;">
-                    <!--<div class="carousel-caption">
-                      <h3>Senior High Ready!</h3>
-                      <p>Now accepting registrations for Senior High!</p>
-                    </div>-->
+                    <img src="Images/senior.jpg"  alt="Chicago" style="width:100%;">
                   </div>
     
                   <div class="item">
-                    <img src="Images/3.png" alt="" style="width:100%;">
-                    <!--<div class="carousel-caption">
-                      <h3>AMA Online Education</h3>
-                      <p>Earn a college degree or short course certification online!</p>
-                    </div>-->
-                  </div>
-
-                  <div class="item">
-                    <img src="Images/4.png"  alt="" style="width:100%;">
-                    <!--<div class="carousel-caption">
-                      <h3>AMA School of Medicine (ASM)</h3>
-                      <p>The medical school of AMA Education System</p>
-                    </div>-->
-                  </div>
-    
-                  <div class="item">
-                    <img src="Images/5.png" alt="" style="width:100%;">
-                    <!--<div class="carousel-caption">
-                      <h3>AMA International University Pathway Program</h3>
-                      <p>Pursue an international post graduate course.</p>
-                    </div>-->
+                    <img src="Images/boy abunda.png" alt="New york" style="width:100%;">
                   </div>
                 </div>
-                <!-- Left and right controls -->
-                <!--<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
                   <span class="glyphicon glyphicon-chevron-left"></span>
                   <span class="sr-only">Previous</span>
                 </a>
                 <a class="right carousel-control" href="#myCarousel" data-slide="next">
                   <span class="glyphicon glyphicon-chevron-right"></span>
                   <span class="sr-only">Next</span>
-                </a>->
+                </a>
               </div>            
             </div>
        </div>
-    </header>
+    </header> -->
 
     <!-- Services Section -->
-    <section id="services"  class="bg-light-gray">
+    <section id="services">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -390,20 +358,21 @@
         </div> <!-- /col-md-4 -->
         
         <div class="col-md-8">
-          <div class="md-ipad md-black-device md-glare">
-    <div class="md-body">
-        <div class="md-front-camera"></div>
-
-        <div class="md-screen">
-        <div class="tab-featured-image">
+            <!-- begin macbook pro mockup -->
+            <div class="md-macbook-pro md-glare">
+                <div class="md-lid">
+                    <div class="md-camera"></div>
+                    <div class="md-screen">
+                    <!-- content goes here -->                
+                        <div class="tab-featured-image">
                             <div class="tab-content">
                                 <div class="tab-pane  in active" id="tab1">
-                                       <img src="Images/Floor Plan/1fp.jpg"></div>
+                                        &nbsp;Admin</div>
                                 <div class="tab-pane " id="tab2">
                                     
                                      <!--   <img src="https://unsplash.imgix.net/uploads/1411724908903377d4696/2e9b0cb2?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950"> -->
 
-                                     <img src="Images/Floor Plan/2fp.jpg">
+                                     &nbsp;Registrar, Cashier, Accounting
                                     
                                 </div>
                                 <div class="tab-pane" id="tab3">
@@ -439,11 +408,10 @@
 
                             </div>
                         </div>
-        </div>
-
-        <button class="md-home-button"></button>
-    </div>
-</div>
+                    </div>
+                </div>
+                <div class="md-base"></div>
+            </div> <!-- end macbook pro mockup -->
         </div> <!-- / .col-md-8 -->
     </div> <!--/ .row -->
      </div>
@@ -451,7 +419,7 @@
     </section>
 
     <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <section id="portfolio" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
