@@ -93,6 +93,8 @@
     <Content Include="Images\ama.png" />
     <Content Include="Images\boy abunda.png" />
     <Content Include="Images\building.png" />
+    <Content Include="Images\Floor Plan\1fp.jpg" />
+    <Content Include="Images\Floor Plan\2fp.jpg" />
     <Content Include="Images\logoama.jpg" />
     <Content Include="Images\senior.jpg" />
     <Content Include="Creative\.gitignore" />
