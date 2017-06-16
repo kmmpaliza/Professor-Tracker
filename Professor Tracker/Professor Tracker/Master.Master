@@ -31,6 +31,7 @@
     <script src="Carousel/jquery.min.js" type="text/javascript"></script>
     <!-- Theme CSS -->
     <link href="Agency/css/agency.min.css" rel="stylesheet">
+    <link href="Styles/PictureModal.css" rel="Stylesheet" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -141,7 +142,7 @@
                 <a class="right carousel-control" href="#myCarousel" data-slide="next">
                   <span class="glyphicon glyphicon-chevron-right"></span>
                   <span class="sr-only">Next</span>
-                </a>->
+                </a>-->
               </div>            
             </div>
        </div>
@@ -390,8 +391,7 @@
         </div> <!-- /col-md-4 -->
         
         <div class="col-md-8">
-          <!-- begin macbook pro mockup -->
-             <!-- begin macbook pro mockup -->
+           <!-- begin macbook pro mockup -->
             <div class="md-macbook-pro md-glare">
                 <div class="md-lid">
                     <div class="md-camera"></div>
@@ -399,13 +399,27 @@
                     <!-- content goes here -->                
                         <div class="tab-featured-image">
                             <div class="tab-content">
-                                 <div class="tab-pane  in active" id="tab1">
-                                       <img src="Images/Floor Plan/1try.jpg"></div>
+                                <div class="tab-pane  in active" id="tab1">
+                                       <img src="Images/Floor Plan/1try.jpg" style=" cursor:zoom-in " onclick="document.getElementById('modal01').style.display='block'">
+                                       
+                                        <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+                                        <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+                                        <div class="w3-modal-content w3-animate-zoom">
+                                        <img src="Images/Floor Plan/1st.jpg" style="width:100%">
+                                        </div>
+                                        </div>
+                                       
+                                       </div>
                                 <div class="tab-pane " id="tab2">
                                     
-                                     <!--   <img src="https://unsplash.imgix.net/uploads/1411724908903377d4696/2e9b0cb2?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950"> -->
-
-                                     &nbsp;Registrar, Cashier, Accounting
+                                    <img src="Images/Floor Plan/2try.jpg" style=" cursor:zoom-in " onclick="document.getElementById('modal02').style.display='block'">
+                                       
+                                        <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
+                                        <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+                                        <div class="w3-modal-content w3-animate-zoom">
+                                        <img src="Images/Floor Plan/2nd.jpg" style="width:100%">
+                                        </div>
+                                        </div>
                                     
                                 </div>
                                 <div class="tab-pane" id="tab3">

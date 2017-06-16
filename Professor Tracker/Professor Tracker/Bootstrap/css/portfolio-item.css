@@ -646,11 +646,11 @@ About
 }
 .md-macbook-pro .md-screen {
   width: 42.25em;
-  height: 50.5em;
+  height: 26.375em;
   margin: 0 auto;
   position: relative;
   top: 2.0625em;
-  background: #1d1d1d;
+  // background: #1d1d1d;
   background: #fff;
   overflow: hidden;
 }
@@ -699,7 +699,6 @@ About
   background: -o-linear-gradient(37deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
   background: linear-gradient(53deg, rgba(255, 255, 255, 0) 50%, rgba(247, 248, 240, 0.025) 50%, rgba(250, 245, 252, 0.08));
 }
-
 
 #contact
 {

@@ -97,9 +97,10 @@
     <Content Include="Images\ama.png" />
     <Content Include="Images\boy abunda.png" />
     <Content Include="Images\building.png" />
-    <Content Include="Images\Floor Plan\1.jpg" />
+    <Content Include="Images\Floor Plan\1st.jpg" />
     <Content Include="Images\Floor Plan\1try.jpg" />
-    <Content Include="Images\Floor Plan\2fp.jpg" />
+    <Content Include="Images\Floor Plan\2nd.jpg" />
+    <Content Include="Images\Floor Plan\2try.jpg" />
     <Content Include="Images\logoama.jpg" />
     <Content Include="Images\senior.jpg" />
     <Content Include="Creative\.gitignore" />
@@ -181,6 +182,7 @@
     <Content Include="Agency\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="Agency\vendor\jquery\jquery.js" />
     <Content Include="Agency\vendor\jquery\jquery.min.js" />
+    <Content Include="Styles\PictureModal.css" />
     <Content Include="Styles\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
