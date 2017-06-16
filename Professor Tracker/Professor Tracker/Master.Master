@@ -390,20 +390,22 @@
         </div> <!-- /col-md-4 -->
         
         <div class="col-md-8">
-          <div class="md-ipad md-black-device md-glare">
-    <div class="md-body">
-        <div class="md-front-camera"></div>
-
-        <div class="md-screen">
-        <div class="tab-featured-image">
+          <!-- begin macbook pro mockup -->
+             <!-- begin macbook pro mockup -->
+            <div class="md-macbook-pro md-glare">
+                <div class="md-lid">
+                    <div class="md-camera"></div>
+                    <div class="md-screen">
+                    <!-- content goes here -->                
+                        <div class="tab-featured-image">
                             <div class="tab-content">
-                                <div class="tab-pane  in active" id="tab1">
-                                       <img src="Images/Floor Plan/1fp.jpg"></div>
+                                 <div class="tab-pane  in active" id="tab1">
+                                       <img src="Images/Floor Plan/1try.jpg"></div>
                                 <div class="tab-pane " id="tab2">
                                     
                                      <!--   <img src="https://unsplash.imgix.net/uploads/1411724908903377d4696/2e9b0cb2?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950"> -->
 
-                                     <img src="Images/Floor Plan/2fp.jpg">
+                                     &nbsp;Registrar, Cashier, Accounting
                                     
                                 </div>
                                 <div class="tab-pane" id="tab3">
@@ -436,14 +438,12 @@
                                  <div class="tab-pane fade" id="tab11">
                                      &nbsp;10th floor
                                 </div>
-
                             </div>
                         </div>
-        </div>
-
-        <button class="md-home-button"></button>
-    </div>
-</div>
+                    </div>
+                </div>
+                <div class="md-base"></div>
+            </div> <!-- end macbook pro mockup -->
         </div> <!-- / .col-md-8 -->
     </div> <!--/ .row -->
      </div>
