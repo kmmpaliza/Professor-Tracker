@@ -169,17 +169,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">Admin</h4>
+                            <h4 class="panel-title">UPPER GROUND FLOOR</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Administration
+                        UPPER GROUND FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Admission Office, School Director Office, and Mac Laboratory
                         </div>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
                         Mezzanine
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Medicine Office, Registrar Office, Accounting Office, Property Office, HR Office, IT Office,Tutorial Room, and Pearson Vue Center
                         </div>
                     </div>
                 </div>
@@ -211,17 +211,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab3" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingThree"  data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <h4 class="panel-title">Faculty</h4>
+                            <h4 class="panel-title">2ND FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
                         <h4>
-                        Faculty
+                        2ND FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Faculty Office, Dean's Office, Demo & Tutorial room , Placement Office, CCNA Laboratory, Mechanics Laboratory, and Computer Laboratory
                         </div>
                         </div>
                       </div>
@@ -231,17 +231,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab4" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingFour" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <h4 class="panel-title collapsed">Laboratories</h4>
+                            <h4 class="panel-title collapsed">3RD FLOOR</h4>
                         </div>
                     </span>
 
                     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                          <div class="panel-body">
                         <h4>
-                        Laboratories
+                        3RD FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        CCNP Laboratory, Computer Laboratory, VSAT Room and Classroom (A301)
                         </div>
                     </div>
                 </div>
@@ -252,17 +252,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab5" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingFive"  data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <h4 class="panel-title">Classrooms</h4>
+                            <h4 class="panel-title">4TH FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
                           <div class="panel-body">
                         <h4>
-                        Classrooms
+                        4TH FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Classroom (A401-A404), Canteen, and Conference Room
                         </div>
                         </div>
                       </div>
@@ -272,17 +272,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab6" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingSix"  data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <h4 class="panel-title">Canteen</h4>
+                            <h4 class="panel-title">5TH FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
                           <div class="panel-body">
                         <h4>
-                        Canteen
+                        5TH FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Classroom (A501-A506)
                         </div>
                         </div>
                       </div>
@@ -292,17 +292,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab7" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingSeven"  data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                            <h4 class="panel-title">Engineering</h4>
+                            <h4 class="panel-title">6TH FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
                           <div class="panel-body">
                         <h4>
-                        Engineering
+                        6TH FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Classroom (A506), Chemistry Laboratory, Physics Laboratory, Digital Laboratory, and PE Room
                         </div>
                         </div>
                       </div>
@@ -312,17 +312,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab8" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingEight"  data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                            <h4 class="panel-title">Nursing</h4>
+                            <h4 class="panel-title">7TH FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
                           <div class="panel-body">
                         <h4>
-                        Nursing
+                        7TH FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Classroom (A701-A704), Nutrition Laboratory, Gross Anatomy Laboratory, and Histology Laboratory
                         </div>
                         </div>
                       </div>
@@ -332,17 +332,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab9" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingNine"  data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            <h4 class="panel-title">Senior High</h4>
+                            <h4 class="panel-title">8TH FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
                           <div class="panel-body">
                         <h4>
-                        Senior High
+                        8TH FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        ASM Dean Office, ASM Faculty Room, Conference Room and Skills Laboratory
                         </div>
                         </div>
                       </div>
@@ -353,17 +353,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab10" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingTen"  data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            <h4 class="panel-title">PE Room</h4>
+                            <h4 class="panel-title">9TH FLOOR</h4>
                         </div>
                     </span>
 
                         <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
                           <div class="panel-body">
                         <h4>
-                        PE Room
+                        9TH FLOOR
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Library, Secretary Office, and Chairman's Office 
                         </div>
                         </div>
                       </div>
@@ -383,7 +383,7 @@
                         10th Floor
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Mass Room, and Auditorium
                         </div>
                     </div>
                 </div>
@@ -400,57 +400,79 @@
                         <div class="tab-featured-image">
                             <div class="tab-content">
                                 <div class="tab-pane  in active" id="tab1">
-                                       <img src="Images/Floor Plan/1try.jpg" style=" cursor:zoom-in " onclick="document.getElementById('modal01').style.display='block'">
+                                      <!-- <img class="w3-hover-opacity" src="Images/Floor Plan/1try.jpg" style=" cursor:zoom-in " onclick="document.getElementById('modal01').style.display='block'">
                                        
-                                        <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-                                        <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
-                                        <div class="w3-modal-content w3-animate-zoom">
-                                        <img src="Images/Floor Plan/1st.jpg" style="width:100%">
+                                        <div id="modal01" class="w3-modal" onclick="this.style.display='none'" >
+                                        <span class="w3-button w3-hover-red w3-xxlarge w3-display-topright">x</span>
+                                        <div class="w3-modal-content w3-card-4 w3-animate-zoom">
+                                        <img src="Images/Floor Plan/1try.jpg" style="width:150%">
                                         </div>
                                         </div>
-                                       
-                                       </div>
-                                <div class="tab-pane " id="tab2">
-                                    
-                                    <img src="Images/Floor Plan/2try.jpg" style=" cursor:zoom-in " onclick="document.getElementById('modal02').style.display='block'">
-                                       
-                                        <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
-                                        <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
-                                        <div class="w3-modal-content w3-animate-zoom">
-                                        <img src="Images/Floor Plan/2nd.jpg" style="width:100%">
-                                        </div>
-                                        </div>
-                                    
-                                </div>
-                                <div class="tab-pane" id="tab3">
-                                    
-                                        <!-- <img src="https://ununsplash.imgix.net/photo-1422479516648-9b1f0b6e8da8?dpr=2&fit=crop&fm=jpg&h=650&q=75&w=950" alt="tab1" class="img img-responsive"> -->
+                                        -->
 
-                                        &nbsp;Faculty
+                                    <a href="#directoryModal1" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/1stlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
+                                 </div>
+
+                                <div class="tab-pane " id="tab2">
+                                    <a href="#directoryModal2" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/2ndlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
+                                <div class="tab-pane" id="tab3">
+                                    <a href="#directoryModal3" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/3rdlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+
                                 <div class="tab-pane fade" id="tab4">
-                                     &nbsp;Laboratories
+                                     <a href="#directoryModal4" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/4thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
-                                 <div class="tab-pane fade" id="tab5">
-                                     &nbsp;Rooms
+
+                                <div class="tab-pane fade" id="tab5">
+                                    <a href="#directoryModal5" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/5thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
                                  <div class="tab-pane fade" id="tab6">
-                                     &nbsp;Canteen
+                                    <a href="#directoryModal6" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/6thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
                                  <div class="tab-pane fade" id="tab7">
-                                     &nbsp;Engineering
+                                    <a href="#directoryModal7" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/7thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
                                  <div class="tab-pane fade" id="tab8">
-                                     &nbsp;Nursing
+                                     <a href="#directoryModal8" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/8thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
                                  <div class="tab-pane fade" id="tab9">
-                                     &nbsp;Senior High
+                                     <a href="#directoryModal9" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/9thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
                                  <div class="tab-pane fade" id="tab10">
-                                     &nbsp;PE Room
+                                     <a href="#directoryModal10" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/10thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
+
                                  <div class="tab-pane fade" id="tab11">
-                                     &nbsp;10th floor
+                                     <a href="#directoryModal11" class="portfolio-link" data-toggle="modal">
+                                    <img src="Images/Floor Plan/11thlandscape.jpg" class="img-responsive" alt="">
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -800,6 +822,285 @@
             </div>
         </div>
     </footer>
+
+     <!-- Directories Modals -->
+     <!-- Directories Modal 1 -->
+      <div class="portfolio-modal modal fade" id="directoryModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>UPPER GROUND FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/1st.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 2 -->
+      <div class="portfolio-modal modal fade" id="directoryModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>MEZZANINE</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/2nd.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 3 -->
+      <div class="portfolio-modal modal fade" id="directoryModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>2ND FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/3rd.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     <!-- Directories Modal 4 -->
+      <div class="portfolio-modal modal fade" id="directoryModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>3RD FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/4th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 5 -->
+      <div class="portfolio-modal modal fade" id="directoryModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>4TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/5th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 6 -->
+      <div class="portfolio-modal modal fade" id="directoryModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>5TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/6th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 7 -->
+      <div class="portfolio-modal modal fade" id="directoryModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>6TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/7th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 8 -->
+      <div class="portfolio-modal modal fade" id="directoryModal8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>7TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/8th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 9 -->
+      <div class="portfolio-modal modal fade" id="directoryModal9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>8TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/9th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 10 -->
+      <div class="portfolio-modal modal fade" id="directoryModal10" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>9TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/10th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Directories Modal 11 -->
+      <div class="portfolio-modal modal fade" id="directoryModal11" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2>10TH FLOOR</h2>
+                                <img class="img-responsive img-centered" src="Images/Floor Plan/11th.jpg" alt="">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 
     <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
