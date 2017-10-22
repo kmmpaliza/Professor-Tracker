@@ -1,4 +1,3 @@
-# Topic1
-Professor Tracker
+# Professor Tracker
 
 Thesis Project
